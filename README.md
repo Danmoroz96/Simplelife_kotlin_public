@@ -44,4 +44,4 @@ com.example.simplelife
 ├── MainActivity.kt     # Navigation Host
 └── SimpleLifeApplication.kt # App Entry Point
 
-This project is done by Danila Morozov and Jiancai Hou. 
+## This project is done by Danila Morozov and Jiancai Hou. 
