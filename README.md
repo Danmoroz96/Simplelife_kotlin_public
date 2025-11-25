@@ -44,4 +44,13 @@ com.example.simplelife
 ├── MainActivity.kt     # Navigation Host
 └── SimpleLifeApplication.kt # App Entry Point
 
+
+
+
+Installation
+1. Clone the repository.
+2. Open in Android Studio.
+3. Sync Gradle dependencies.
+4. Run on an Emulator or Physical Device (Min SDK 24).
+
 ## This project is done by Danila Morozov and Jiancai Hou. 
