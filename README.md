@@ -53,4 +53,4 @@ Installation
 3. Sync Gradle dependencies.
 4. Run on an Emulator or Physical Device (Min SDK 24).
 
-## This project is done by Danila Morozov and Jiancai Hou. 
+## This application was created by Danila Morozov and Jiancai Hou. 
